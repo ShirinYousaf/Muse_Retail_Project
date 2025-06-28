@@ -1,3 +1,6 @@
+
+## **Retail Application**
+
 Muse is a online retail company that aims to provide its customers with a smooth and efficient
 shopping experience. As the business handles a wide range of products and manages several
 customer orders, it needs an organised system to streamline operations. The custom-built
