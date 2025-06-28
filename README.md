@@ -17,11 +17,11 @@ customer satisfaction. The application provides a strong foundation to support t
 business, making operations more efficient and adaptable to future needs.
 
 
-Getting Started
+# **Getting Started**
 
 These instructions will help you set up and run the Muse Retail Application on your local machine for testing or demonstration purposes. The solution is built using Excel VBA with a Microsoft Access backend and runs entirely on Windows.
 
-Prerequisites
+# **Prerequisites**
 
 Ensure the following software and settings are available on your system:
 
@@ -36,6 +36,5 @@ Basic knowledge of Excel and file navigation
 Note: Make sure macros are enabled when opening the Excel file, and update the Access database path in the VBA editor if needed.
 
 
-Authors
-
+**Authors**
 Shirin Yousaf
