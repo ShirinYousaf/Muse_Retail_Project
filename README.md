@@ -34,3 +34,8 @@ Windows OS (for VBA-Access compatibility)
 Basic knowledge of Excel and file navigation
 
 Note: Make sure macros are enabled when opening the Excel file, and update the Access database path in the VBA editor if needed.
+
+
+Authors
+
+Shirin Yousaf
