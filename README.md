@@ -28,13 +28,9 @@ These instructions will help you set up and run the Muse Retail Application on y
 
 Ensure the following software and settings are available on your system:
 
-Microsoft Excel (2016 or later) with macro support enabled
+● Microsoft Excel with macro support enabled
 
-Microsoft Access (or Access Database Engine installed)
-
-Windows OS (for VBA-Access compatibility)
-
-Basic knowledge of Excel and file navigation
+● Microsoft Access 
 
 Note: Make sure macros are enabled when opening the Excel file, and update the Access database path in the VBA editor if needed.
 
